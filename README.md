@@ -36,16 +36,16 @@ export GW_PASS="Your-Password>
 ### utils.py
 Make sure to modify the following sections:
 * **Prompts** 
-https://github.com/practiccollie/x-port/blob/ac5218f355d5525c71dca7f35a1524e07261227b/utils.py#L64-L82
+https://github.com/ta1c0/x-port/blob/7a4fc7249e5bccfede56145f98277810a69b18bd/utils.py#L64-L82
 
 * **GraphQL**
-https://github.com/practiccollie/x-port/blob/ac5218f355d5525c71dca7f35a1524e07261227b/utils.py#L87-L102
+https://github.com/ta1c0/x-port/blob/7a4fc7249e5bccfede56145f98277810a69b18bd/utils.py#L87-L102
 
 * **GhostWriter**
-https://github.com/practiccollie/x-port/blob/ac5218f355d5525c71dca7f35a1524e07261227b/utils.py#L118-L120
+https://github.com/ta1c0/x-port/blob/7a4fc7249e5bccfede56145f98277810a69b18bd/utils.py#L118-L120
 
 * **Azure**
-https://github.com/practiccollie/x-port/blob/ac5218f355d5525c71dca7f35a1524e07261227b/utils.py#L126-L130
+https://github.com/ta1c0/x-port/blob/7a4fc7249e5bccfede56145f98277810a69b18bd/utils.py#L126-L130
 
 # Authors
 * [@practiccollie](https://github.com/practiccollie)
